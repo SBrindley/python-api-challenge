@@ -78,3 +78,6 @@ Step 1: Create a map that displays a point for every city in the city_data_df Da
 
 ![image](https://user-images.githubusercontent.com/113051302/205462417-52208bab-3763-44a7-a7d9-3d2c367c85ac.png)
 
+### Step 5: Add the hotel name and the country as additional information in the hover message for each city in the map.
+
+![image](https://user-images.githubusercontent.com/113051302/205462582-408a6caa-38c1-48f2-93a6-05baebf85ca8.png)
